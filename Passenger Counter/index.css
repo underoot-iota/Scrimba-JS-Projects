@@ -1,0 +1,40 @@
+body {
+    background: url("https://w.forfun.com/fetch/b5/b5b65196db5b3ef2b86989d231f74b5d.jpeg") rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    background-blend-mode: multiply;
+    font-family: Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #fafafa;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 125px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #db2c2c;
+}
+
+#save-btn {
+    background: #1f912a;
+}
+

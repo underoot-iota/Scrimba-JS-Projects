@@ -1,5 +1,5 @@
 # Scrimba-JS-Projects
 
-##Here I'll be uploading my JS projects from the Scrimba JS Course.
+## Here I'll be uploading my JS projects from the Scrimba JS Course.
 
-###(will update this ReadMe too)
+### (will update this ReadMe too)
